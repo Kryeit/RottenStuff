@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.kryeit.rottenstuff.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "rottenstuff.refmap.json",
+  "mixins": [
+    "MinecraftServerMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

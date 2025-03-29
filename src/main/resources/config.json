@@ -1,0 +1,10 @@
+{
+  "db-url": "jdbc:postgresql://localhost:5432/postgres",
+  "db-user": "postgres",
+  "db-password": "lel",
+  "hints": [
+    "Use a book to talk to players, chat is disabled",
+    "Choose a class wisely, you can't change it until maxing its /abilitytree",
+    ""
+  ]
+}
